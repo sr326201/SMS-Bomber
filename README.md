@@ -1,8 +1,5 @@
 ## SMS-Bomber
-
-
-
-## version (v1.0.0.1)
+* version (v1.0.0.1)
 
 
 ## instlition {termux}
@@ -12,5 +9,4 @@
 * `cd SMS-Bomber`
 * `python sms.py`
 
-## telegram me
-@s_s_14_r
+## telegram : @s_s_14_r
